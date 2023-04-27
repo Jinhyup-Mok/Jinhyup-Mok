@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-11B48A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinhyup-Mok&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinhyup-Mok&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok)](https://github.com/Jinhyup-Mok/github-readme-stats) -->
 
 [![Solved.ac
