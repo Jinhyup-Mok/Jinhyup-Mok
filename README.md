@@ -14,7 +14,9 @@
 </p>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinhyup-Mok&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats).     [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mokjh1117)](https://solved.ac/mokjh1117)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinhyup-Mok&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats).     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jinhyup-Mok&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=91D4C2,45BB89,3D82AB,003853&title_color=fff&text_color=fff&langs_count=6">
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mokjh1117)](https://solved.ac/mokjh1117)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok)](https://github.com/Jinhyup-Mok/github-readme-stats) -->
 
 
