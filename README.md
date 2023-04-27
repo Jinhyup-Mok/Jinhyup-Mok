@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Linux-#FCC624?style=for-the-badge&logo=linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-#FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/HTML-1A2477?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-FABF15?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
