@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/Mysql-11B48A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jinhyup-Mok&custom_title=Mok's&nbsp;GitHub&nbsp;✨&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff&count_private=true&line_height=24" style="width: 440px""/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jinhyup-Mok&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff&langs_count=6">
+</p>  
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mokjh1117)](https://solved.ac/mokjh1117)
