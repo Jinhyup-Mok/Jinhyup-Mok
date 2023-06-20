@@ -28,10 +28,8 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinhyup-Mok&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jinhyup-Mok&show_icons=true&theme=calm&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok&layout=compact&theme=calm" alt="Most Used Languages" />
 </div>
 
-<!-- Most Used Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok&layout=compact&theme=algolia" alt="Most Used Languages" />
-</div>
+
