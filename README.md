@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Mysql-11B48A?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
 
-<br>
 <h3 align="center">•••</h3>
 <br>
 <p align="center">
