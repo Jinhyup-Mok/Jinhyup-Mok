@@ -21,6 +21,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jinhyup-Mok&custom_title=Mok's&nbsp;GitHub&nbsp;✨&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff&count_private=true&line_height=24" style="width: 440px""/>
 </p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok)](https://github.com/Jinhyup-Mok/github-readme-stats)
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mokjh1117)](https://solved.ac/mokjh1117)
