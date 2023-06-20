@@ -31,5 +31,7 @@
 
 <br>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+<div align="center">
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
+</div>
 
