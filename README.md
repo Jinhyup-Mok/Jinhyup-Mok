@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e0ffff&height=200&section=header&text=Jinhyup-Mok;&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=200&section=header&text=Jinhyup-Mok;&fontSize=90" />
 </div>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
