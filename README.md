@@ -8,10 +8,7 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSWindows-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/HTML-1A2477?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-FABF15?style=flat-square&logo=css3&logoColor=white"/>
