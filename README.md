@@ -18,6 +18,14 @@
   <img src="https://img.shields.io/badge/Mysql-11B48A?style=flat-square&logo=MySql&logoColor=white"/>
 </p>
 
+<br>
+<h3 align="center">•••</h3>
+<br>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dan-2ee&custom_title=DaEun's&nbsp;GitHub&nbsp;✨&bg_color=30,92a8d1,f7cac9&title_color=fff&text_color=fff&count_private=true&line_height=24" style="width: 440px""/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dan-2ee&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=30,f7cac9,92a8d1&title_color=fff&text_color=fff&langs_count=6">
+</p>  
+  
 <div align="center">
   <a href="https://solved.ac/mokjh1117">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mokjh1117"/>
@@ -26,10 +34,5 @@
 
 <br>
 
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jinhyup-Mok&show_icons=true&theme=calm&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok&layout=compact&theme=calm" alt="Most Used Languages" />
-</div>
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=f7cac9&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
