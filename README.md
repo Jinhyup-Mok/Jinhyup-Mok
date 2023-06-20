@@ -18,7 +18,5 @@
   <img src="https://img.shields.io/badge/Mysql-11B48A?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jinhyup-Mok&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok&layout=compact)](https://github.com/Jinhyup-Mok/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mokjh1117)](https://solved.ac/mokjh1117)
 
