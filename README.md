@@ -23,3 +23,15 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mokjh1117"/>
   </a>
 </div>
+
+<br>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jinhyup-Mok&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
+</div>
+
+<!-- Most Used Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok&layout=compact&theme=algolia" alt="Most Used Languages" />
+</div>
