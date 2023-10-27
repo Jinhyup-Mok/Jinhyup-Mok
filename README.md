@@ -23,5 +23,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=30,A4C3FF,87cefa&title_color=fff&text_color=fff&langs_count=8&hide=ipynb,html,css">
 </p>
 <br>
+
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=footer&fontSize=90&&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62)
 
