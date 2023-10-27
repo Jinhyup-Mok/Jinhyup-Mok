@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=87cefa&height=200&section=header&text=Jinhyup-Mok;&fontSize=90" />
-</div>
+### Hi there 👋
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
