@@ -18,11 +18,6 @@
 
 <h3 align="center">•••</h3>
 <br>
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jinhyup-Mok&custom_title=Mok's&nbsp;GitHub&nbsp;✨&bg_color=30,87cefa,A4C3FF&title_color=fff&text_color=fff&count_private=true&line_height=24" style="width: 440px""/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jinhyup-Mok&layout=compact&custom_title=Most&nbsp;Used&nbsp;Languages&nbsp;&bg_color=30,A4C3FF,87cefa&title_color=fff&text_color=fff&langs_count=8&hide=ipynb,html,css">
-</p>
-<br>
 
 
 
